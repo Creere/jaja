@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+ 
+      <channel>
+    <name>          <<<<<<<<<Arturo Valls>>>>>>>></name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+        <items>
+               
+                        <item><title>[COLOR=blue]                                      <<[/COLOR][COLOR=white]Arturo Valls[/COLOR][COLOR=blue]>>[/COLOR]</title>   <link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+
+                        <item><title>[COLOR=blue]                               [/COLOR][COLOR=yellow]Este es una excepción ya que incluye[/COLOR][COLOR=blue][/COLOR]</title>   <link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+
+                        <item><title>[COLOR=blue]                               [/COLOR][COLOR=yellow]otro tipos de videos[/COLOR][COLOR=blue][/COLOR]</title>   <link>http://ignoreme</link>
+<thumbnail></thumbnail>
+</item>
+         
+    <channel>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►Youtube[/COLOR]</name>
+    <info></info>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ 
+ 
+ 
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] El ser padre me ha cambiado la vida</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8EimbEu7tuk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Arturo Valls imita a Miley Cyrus</title>
+<link>plugin://plugin.video.youtube/play/?video_id=5sMqXS-qpo0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Arturo Valls imita a Pikotaro</title>
+<link>plugin://plugin.video.youtube/play/?video_id=9jgldDnGMbs</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Arturo Valls imita a Aless Gibaja</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lMyWgHOmpKE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Arturo Valls imita a Pedro Marín</title>
+<link>plugin://plugin.video.youtube/play/?video_id=14zq6fggyIg</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Arturo Valls imita a Rihanna</title>
+<link>plugin://plugin.video.youtube/play/?video_id=552yWya5RgY</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Arturo Valls imita a Britney Spears</title>
+<link>plugin://plugin.video.youtube/play/?video_id=bjffDd7g0_o</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+</items>
